@@ -1,2 +1,3 @@
-# tggestaoagil
-Este repositório contém a descrição e informações sobre o Trabalho de Graduação com o tema: A viabilidade de integração de novas metodologias de gestão de projetos no âmbito do projeto integrador do curso de Big Data no Agronegócio.
+# Metodologias Ágeis 
+Projeto voltado para análise de dados de pesquisa sobre a viabilidade de implementação de novas Metodologias Ágeis de gestão de projetos na disciplina de Projeto Integrador do curso de Big Data no Agronegócio. Esta análise está relacionada com o Trabalho de Graduação dos alunos José Pedro Scalco e Iam Caio Rodrigues.   
+
