@@ -16,7 +16,6 @@ A pesquisa desenvolvida para coletar os dados deste projeto é do tipo quantitat
 
 Nesse contexto, todos os pilares acima foram relacionados pelos alunos diante a Metodologia Scrum já desenvolvida na disciplina. Sendo assim, após as análises feitas, poderemos identificar os pontos positivos e negativos apresentado pelos alunos e propor ou não uma nova metodologia que amenize as dificuldades. 
 </p>
-<br/><br/>
 <p>
 O formulário juntamente com as perguntas pode ser acessado em: https://forms.gle/Ed3s2KDMzNzYfcKS9 
 </p>
