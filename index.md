@@ -15,6 +15,7 @@ A pesquisa desenvolvida para coletar os dados deste projeto é do tipo quantitat
 </ul>
 
 Nesse contexto, todos os pilares acima foram relacionados pelos alunos diante a Metodologia Scrum já desenvolvida na disciplina. Sendo assim, após as análises feitas, poderemos identificar os pontos positivos e negativos apresentado pelos alunos e propor ou não uma nova metodologia que amenize as dificuldades. 
+O formulário juntamente com as perguntas pode ser acessado em: https://forms.gle/Ed3s2KDMzNzYfcKS9 
 </p>
 
 # Software utilizado
@@ -22,7 +23,7 @@ Nesse contexto, todos os pilares acima foram relacionados pelos alunos diante a 
 <p>
 Para a análise dos dados coletados foi necessário um software que buscasse fazer todo o ciclo do Data Mining para que pudéssemos determinar e cruzar os dados para identificar padrões e possíveis pontos de melhoria metodológica no projeto integrador. Com base nisso, foi escolhido o Orange por ser Open-Source, conter uma ótima documentação e uma interface user-friendly.
 <br/><br/>
-<p align="center"><img src="./img/logo.png" alt="Orange" width="200"/></p>
+<p align="center"><img src="./img/logo.png" alt="Orange" width="150"/></p>
 <br/><br/>
 Com o uso do Orange foi possível criar um fluxo de tratamento e extração de informação para encontrar padrões. Como exemplo, podemos detectar probabilidades de ocorrerem eventos por base de um histórico utilizando algoritmos disponíveis na plataforma. Nesse contexto, podemos encontrar algoritmos de Machine Learning supervisionados, não-supervisionados e redes neurais para utilização.
 <br/><br/>
