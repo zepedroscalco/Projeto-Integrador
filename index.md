@@ -22,11 +22,21 @@ Nesse contexto, todos os pilares acima foram relacionados pelos alunos diante a 
 <p>
 Para a análise dos dados coletados foi necessário um software que buscasse fazer todo o ciclo do Data Mining para que pudéssemos determinar e cruzar os dados para identificar padrões e possíveis pontos de melhoria metodológica no projeto integrador. Com base nisso, foi escolhido o Orange por ser Open-Source, conter uma ótima documentação e uma interface user-friendly.
 
+<img src="./img/logo.png" alt="Orange" width="200">
+
 Com o uso do Orange foi possível criar um fluxo de tratamento e extração de informação para encontrar padrões. Como exemplo, podemos detectar probabilidades de ocorrerem eventos por base de um histórico utilizando algoritmos disponíveis na plataforma. Nesse contexto, podemos encontrar algoritmos de Machine Learning supervisionados, não-supervisionados e redes neurais para utilização.
+
+<img src="./img/unsupervised.png" alt="Unsupervised" width="200">
+<img src="./img/model.png" alt="Model" width="200">
 
 Como visto acima o Orange contém muitas opções de algoritmos para serem utilizados mas também temos vários meios de validar os resultados e métodos utilizados para buscar uma melhor acurácia do modelo.
 
+<img src="./img/evaluate.png" alt="Evaluate" width="200">
+
 Já em relação a visualização podemos ter uma interface simples e intuitiva para extrair informações relevantes e também visualizar dados e previsões feitas pelos algoritmos utilizando diversos modelos de gráficos.
+
+<img src="./img/visualize.png" alt="Visualize" width="200">
+
 </p>
 
 # Materiais e métodos
