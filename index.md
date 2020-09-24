@@ -43,8 +43,7 @@ Como visto acima o Orange contém muitas opções de algoritmos para serem utili
 Já em relação a visualização podemos ter uma interface simples e intuitiva para extrair informações relevantes e também visualizar dados e previsões feitas pelos algoritmos utilizando diversos modelos de gráficos.
 <br/><br/>
 <p align="center"><img src="./img/visualize.png" alt="Visualize" width="200"/></p>
-<br/><br/>
-</p>
+<br/>
 
 # Materiais e métodos
 
