@@ -54,22 +54,19 @@ Já em relação a visualização podemos ter uma interface simples e intuitiva 
 ### a) Input de dados por meio da Árvore de decisão
 <p>
 Como exposto acima, a Árvore de Decisão identificou por meio do cálculo do ganho de informação as classes que mais afetavam os valores contidos na variável Front-end. Nesse contexto, o algoritmo traçou a melhor probabilidade do preenchimento dos campos ausentes e nos retornou o seguinte resultado:
-</p>
-<p>
+
 Com isso, os 3 campos ausentes foram preenchidos com o valor “Intermediário” na classe Front-end.
 </p>
 ### b) Renomeação de atributos para facilitar análises
 <p>
 Seguindo o pré-processamento, foram simplificadas as respostas nas perguntas 04, 06 e 08, como exemplo:
-</p>
-<p>
+
 Sabendo-se disso, foi utilizado o software Excel para renomear as respostas sendo  abreviadas para DT, DP, CP e CT.
 </p>
 ### c) Discretização de classes para facilitar análises
 <p>
 Em relação a discretização, foi encontrado dificuldades em analisar as respostas nas perguntas 07 e 09 por conter múltiplas respostas em um único campo, como exemplo:
-</p>
-<p>
+
 Como a imagem acima, foram criadas as respectivas classes referenciando cada resposta, sendo feita posteriormente a binarização 0 ou 1 (sim ou não) de acordo com a resposta de cada aluno. Este processo irá facilitar a correlação de dados posteriormente. 
 </p>
 ## Mineração
