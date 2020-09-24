@@ -52,9 +52,13 @@ Já em relação a visualização podemos ter uma interface simples e intuitiva 
 </p>
 
 ### a) Input de dados por meio da Árvore de decisão
-<p>Como exposto acima, a Árvore de Decisão identificou por meio do cálculo do ganho de informação as classes que mais afetavam os valores contidos na variável Front-end. Nesse contexto, o algoritmo traçou a melhor probabilidade do preenchimento dos campos ausentes e nos retornou o seguinte resultado:
-
-Com isso, os 3 campos ausentes foram preenchidos com o valor “Intermediário” na classe Front-end.</p>
+<p>
+Como exposto acima, a Árvore de Decisão identificou por meio do cálculo do ganho de informação as classes que mais afetavam os valores contidos na variável Front-end. Nesse contexto, o algoritmo traçou a melhor probabilidade do preenchimento dos campos ausentes e nos retornou o seguinte resultado:
+<br/><br/>
+<p align="center"><img src="./img/Resultado Tree.PNG" alt="Evaluate" width="350"/></p>
+<br/><br/>
+Com isso, os 3 campos ausentes foram preenchidos com o valor “Intermediário” na classe Front-end.
+</p>
 ### b) Renomeação de atributos para facilitar análises
 <p>Seguindo o pré-processamento, foram simplificadas as respostas nas perguntas 04, 06 e 08, como exemplo:
 
