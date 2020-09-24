@@ -66,10 +66,18 @@ Com isso, os 3 campos ausentes foram preenchidos com o valor “Intermediário�
 ### b) Renomeação de atributos para facilitar análises
 <p>Seguindo o pré-processamento, foram simplificadas as respostas nas perguntas 04, 06 e 08, como exemplo:
 
+<br/><br/>
+<p align="center"><img src="./img/Resultado Tree.PNG" alt="Evaluate" width="350"/></p>
+<br/><br/>
+
 Sabendo-se disso, foi utilizado o software Excel para renomear as respostas sendo  abreviadas para DT, DP, CP e CT.</p>
 
 ### c) Discretização de classes para facilitar análises
 <p>Em relação a discretização, foi encontrado dificuldades em analisar as respostas nas perguntas 07 e 09 por conter múltiplas respostas em um único campo, como exemplo:
+
+<br/><br/>
+<p align="center"><img src="./img/Resultado Tree.PNG" alt="Evaluate" width="350"/></p>
+<br/><br/>
 
 Como a imagem acima, foram criadas as respectivas classes referenciando cada resposta, sendo feita posteriormente a binarização 0 ou 1 (sim ou não) de acordo com a resposta de cada aluno. Este processo irá facilitar a correlação de dados posteriormente. </p>
 
