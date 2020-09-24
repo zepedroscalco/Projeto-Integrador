@@ -27,6 +27,7 @@ O formulário juntamente com as perguntas pode ser acessado em: https://forms.gl
 
 <p>
 Para a análise dos dados coletados foi necessário um software que buscasse fazer todo o ciclo do Data Mining para que pudéssemos determinar e cruzar os dados para identificar padrões e possíveis pontos de melhoria metodológica no projeto integrador. Com base nisso, foi escolhido o Orange por ser Open-Source, conter uma ótima documentação e uma interface user-friendly.
+</p>
 <br/><br/>
 <p align="center"><img src="./img/logo.png" alt="Orange" width="150"/></p>
 <br/><br/>
@@ -54,19 +55,24 @@ Já em relação a visualização podemos ter uma interface simples e intuitiva 
 ### a) Input de dados por meio da Árvore de decisão
 <p>
 Como exposto acima, a Árvore de Decisão identificou por meio do cálculo do ganho de informação as classes que mais afetavam os valores contidos na variável Front-end. Nesse contexto, o algoritmo traçou a melhor probabilidade do preenchimento dos campos ausentes e nos retornou o seguinte resultado:
+</p>
 <br/><br/>
 <p align="center"><img src="./img/Resultado Tree.PNG" alt="Evaluate" width="350"/></p>
 <br/><br/>
+<p>
 Com isso, os 3 campos ausentes foram preenchidos com o valor “Intermediário” na classe Front-end.
 </p>
+
 ### b) Renomeação de atributos para facilitar análises
 <p>Seguindo o pré-processamento, foram simplificadas as respostas nas perguntas 04, 06 e 08, como exemplo:
 
 Sabendo-se disso, foi utilizado o software Excel para renomear as respostas sendo  abreviadas para DT, DP, CP e CT.</p>
+
 ### c) Discretização de classes para facilitar análises
 <p>Em relação a discretização, foi encontrado dificuldades em analisar as respostas nas perguntas 07 e 09 por conter múltiplas respostas em um único campo, como exemplo:
 
 Como a imagem acima, foram criadas as respectivas classes referenciando cada resposta, sendo feita posteriormente a binarização 0 ou 1 (sim ou não) de acordo com a resposta de cada aluno. Este processo irá facilitar a correlação de dados posteriormente. </p>
+
 ## Mineração
 
 ## Validação
