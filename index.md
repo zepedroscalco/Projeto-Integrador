@@ -166,7 +166,6 @@ A correlação exposta na Figura 3 foi realizada através da utilização da té
 
 <p align="center"><img src="./img/Grafico FreeViz.png" alt="Gráfico de projeção espacial com ênfase no eixo do princípio de Transparência concordado totalmente segundo as respostas dos alunos" width="400"/></p>
 
-
 <p>
 De acordo com Aubert e Kelsey (2003), pode-se notar que todos os funcionários que apresentam alto desempenho também apresentavam alta transparência no compartilhamento de afazeres e atualizações para todas as suas equipes.
 </p>
@@ -176,6 +175,27 @@ De acordo com Aubert e Kelsey (2003), pode-se notar que todos os funcionários q
 <p>
 Ou seja, ainda segundo o autor, a transparência corrobora para uma frequente comunicação relacionada ao acesso à todos os trabalhos realizados pela equipe.
 </p>
+
+<center><b>Pergunta 2: Qual é a importância de se realizar cerimônias para se ter uma equipe com desempenho bom (3)?</b></center>
+
+<p>
+Observando o resultado explorado com a distribuição de dados exibida na Figura 4, nota-se que grande parte das equipes que obtiveram um desempenho bom (3) realizaram todas as cerimônias da metodologia Scrum. Tendo em vista isso, Schwaber and Sutherland (2018) afirmam que “Failure to include any of these events results in reduced transparency and is a lost opportunity to inspect and adapt.”, ou seja, falhar na inclusão de qualquer um desses eventos, resulta em redução da transparência e perda de oportunidade de inspeção e adaptação fazendo com que o desempenho da equipe seja prejudicado.
+</p>
+
+<p align="center"><img src="./img/Grafico de Barras.png" alt="Gráfico de barras quantificando o atributo Realiza Cerimônias baseado no atributo Desempenho da equipe" width="400"/></p>
+
+<p>
+Em relação ao contexto analisado, foi validada a hipótese da relação entre a Transparência e a Realização de cerimônias. Conclui-se que 100% dos alunos que Concordam Totalmente com Transparência e realizam as cerimônias de desenvolvimento Scrum, consideram que pertencem a uma equipe boa (3) em seu último projeto, como mostrado na  Figura 5.
+</p>
+
+<p align="center"><img src="./img/Grafico de Dispersao.png" alt="Gráfico de dispersão entre os atributos Transparência e Realizar Cerimônias relacionado ao atributo Desempenho da equipe" width="400"/></p>
+
+<p>
+Devido a necessidade de se realizar estas cerimônias na metodologia Scrum visando garantir a transparência, inspeção e adaptação resultando em um aumento de produtividade, as metodologias DSDM (Agile Business Consortium, 2019) e XP (WELLS, 1996) apresentam cerimônias e eventos bem definidas para realização gerando uma troca rápida de feedbacks e garantindo adaptações de maneira ágil. É notório que ambas metodologias contribuem positivamente com eventos, entretanto, comparando-as com a metodologia Scrum é visível que ambas falham nas definições e na clareza de suas cerimônias.
+</p>
+
+<center><b>Pergunta 3: Qual a relação de se ter o conhecimento de Backend e Frontend diante uma equipe de desempenho bom(3)?</b></center>
+
 
 # Conclusão
 
