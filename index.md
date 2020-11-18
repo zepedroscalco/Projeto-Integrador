@@ -115,7 +115,7 @@ Como a imagem acima, foram criadas as respectivas classes referenciando cada res
 Visando direcionar o estudo sobre a viabilidade de integração de novas metodologias de gestão de projetos, foi adotado o diagrama The Agile Onion de Powers (2016), como exposto na figura abaixo, no qual exemplifica a estrutura base de uma metodologia de gestão dividida em Mentalidade, Valores, Princípios, Práticas e Ferramentas. Sendo assim, as análises feitas neste trabalho foram orientadas pelas camadas de Princípios e Práticas a fim de facilitar a comparação entre as metodologias.
 </p>
 
-<p align="center"><img src="./img/Cebola Ágil.PNG" alt="Cebola Ágil" width="500"/></p>
+<p align="center"><img src="./img/cebolaagil.png" alt="Cebola Ágil" width="500"/></p>
 
 <p style="text-align: justify;text-justify: inter-word;">
 Foram elaboradas perguntas norteadoras que buscam relacionar e compreender os métodos ágeis e o comportamento gerado com o uso desses métodos. As perguntas elaboradas estão apresentadas na Tabela 1:
