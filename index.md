@@ -179,7 +179,7 @@ Ou seja, ainda segundo o autor, a transparência corrobora para uma frequente co
 <center><b>Pergunta 2: Qual é a importância de se realizar cerimônias para se ter uma equipe com desempenho bom (3)?</b></center>
 
 <p>
-Observando o resultado explorado com a distribuição de dados exibida na Figura 4, nota-se que grande parte das equipes que obtiveram um desempenho bom (3) realizaram todas as cerimônias da metodologia Scrum. Tendo em vista isso, Schwaber and Sutherland (2018) afirmam que “Failure to include any of these events results in reduced transparency and is a lost opportunity to inspect and adapt.”, ou seja, falhar na inclusão de qualquer um desses eventos, resulta em redução da transparência e perda de oportunidade de inspeção e adaptação fazendo com que o desempenho da equipe seja prejudicado.
+Observando o resultado explorado com a distribuição de dados exibida na Figura 4, nota-se que grande parte das equipes que obtiveram um desempenho bom (3) realizaram todas as cerimônias da metodologia Scrum. Tendo em vista isso, Schwaber and Sutherland (2018) afirmam que <cite>“Failure to include any of these events results in reduced transparency and is a lost opportunity to inspect and adapt.”</cite>, ou seja, falhar na inclusão de qualquer um desses eventos, resulta em redução da transparência e perda de oportunidade de inspeção e adaptação fazendo com que o desempenho da equipe seja prejudicado.
 </p>
 
 <p align="center"><img src="./img/Grafico de Barras.png" alt="Gráfico de barras quantificando o atributo Realiza Cerimônias baseado no atributo Desempenho da equipe" width="400"/></p>
@@ -196,6 +196,27 @@ Devido a necessidade de se realizar estas cerimônias na metodologia Scrum visan
 
 <center><b>Pergunta 3: Qual a relação de se ter o conhecimento de Backend e Frontend diante uma equipe de desempenho bom(3)?</b></center>
 
+<p>
+A correlação feita na Figura 6 mostra que 100% dos estudantes que se consideram Avançado em programação Frontend e Backend formam uma equipe de desempenho bom(3). Além disso, a grande maioria dos alunos que se classificam como Intermediário em relação a essas duas práticas compõe uma equipe de desempenho médio(2) ou bom(3). Diante o exposto, nota-se que pode haver uma falta de motivação no estudante caso ele apresente um nível elevado em apenas uma prática apresentada, diminuindo sua confiança técnica para realizar as tarefas de maneira produtiva. Assim, segundo Xavier, Viana e Gadelha (2016), a <cite>“confiança  técnica  é  valorizada  pelos  engenheiros  de software de modo que esta percepção de confiança em suas habilidades influencia positivamente sua motivação”</cite>.
+</p>
+
+<p align="center"><img src="./img/Grafico de Dispersao Frontend vs Backend.png" alt="Gráfico de dispersão entre o atributo de Frontend e Backend relacionado ao atributo Desempenho da equipe" width="400"/></p>
+
+<p>
+Visando aumentar e melhorar o rendimento dos alunos, relacionando novas metodologias de gestão de projetos de software que venham suprir esta lacuna, a prática de Programação em pares da metodologia XP é uma solução para o problema encontrado. Segundo Beck e Andres (2004), os programadores desta prática devem <cite>“Take initiative when their partner is stuck, thus lowering frustration. Hold each other accountable to the team's practices.”</cite>, ou seja, tomar iniciativa quando o parceiro estiver com dificuldade para diminuir sua frustração tendo responsabilidades mútuas sobre a prática desenvolvida.
+</p>
+<p>
+Através das análises realizadas, observamos a importância das camadas de Princípios e Técnicas em relação à gestão de projetos de software na disciplina de Projeto Integrador. Nesse contexto, tendo como atributo norteador o desempenho da equipe classificado como bom (3), entendeu-se que o princípio de Transparência, segundo os alunos pesquisados, têm relação direta com a realização de cerimônias durante o desenvolvimento. Em contrapartida, a metodologia DSDM  não contempla características objetivas sobre as cerimônias abordadas diante o seu ciclo. Além disso, por conter 13 papéis para desempenhar funções durante o desenvolvimento do projeto, esse método mostra que sua introdução em equipes de cinco alunos durante o Projeto Integrador é inexequível. 
+</p>
+<p>
+Em relação às técnicas, as competências de programação Frontend e Backend mostram-se relevantes quando o aluno tem o conhecimento de ambas, assegurando, segundo as pesquisas, que o mesmo estará em uma equipe com bom desempenho. Nesse sentido, para haver um aumento de produtividade, é necessário introduzir a técnica de Programação em Pares estabelecida pela Metodologia XP, estimulando a programação que contenha dois alunos com diferentes níveis de conhecimento sobre essas áreas. Assim, os estudantes podem aumentar a produtividade em relação a programação Frontend e Backend trabalhando em conjunto. 
+</p>
 
 # Conclusão
 
+<p>
+Diante o trabalho realizado, a viabilidade da introdução de uma nova metodologia ágil de gestão de projetos de software na disciplina de Projeto Integrador mostra-se inviável, já que a Metodologia Scrum, segundo as análises, garante um bom desempenho para os alunos. 
+</p>
+<p>
+Todavia, faz-se necessário a introdução da técnica de Programação em pares estabelecida pela Metodologia XP visando aumentar e melhorar o rendimento dos alunos. Ademais, levando em consideração a importância da realização de cerimônias para um bom desempenho da equipe, a Metodologia DSDM não apresenta características objetivas sobre as cerimônias realizadas diante o seu ciclo, tornando-a inviável para integração. Além disso, o elevado número de papéis para desempenhar funções durante o desenvolvimento é incompatível com os projetos desenvolvidos na disciplina.
+</p>
