@@ -169,10 +169,10 @@ Referente as validações das perguntas, tivemos as seguintes informações:
 # Resultados e discussão
 
 <p style="text-align: justify;text-justify: inter-word;">
-Ao analisar a experiência dos alunos diante o ambiente da disciplina de Projeto Integrador, nota-se a importância da coleta de dados para o estudo de viabilidade de introdução de uma nova metodologia de gestão de projetos de software. Diante o contexto, a opinião dos alunos referentes ao desempenho da sua última equipe de projeto foi o atributo norteador para embasar os resultados das análises apresentadas. Nesse sentido, 54,2% dos estudantes afirmam que classificariam o desempenho da equipe como bom (3) em uma escala de 1 à 3, conforme mostrado na Figura 2.
+Ao analisar a experiência dos alunos diante o ambiente da disciplina de Projeto Integrador, nota-se a importância da coleta de dados para o estudo de viabilidade de introdução de uma nova metodologia de gestão de projetos de software. Diante o contexto, a opinião dos alunos referentes ao desempenho da sua última equipe de projeto foi o atributo norteador para embasar os resultados das análises apresentadas. Nesse sentido, 54,2% dos estudantes afirmam que classificariam o desempenho da equipe como bom (3) em uma escala de 1 à 3, conforme mostrado na Figura 1.
 </p>
 
-<center>Figura 2 - Distribuição de frequência das respostas quanto ao desempenho da sua última equipe de projeto integrador, classificado de ruim (1) à bom (3).</center>
+<center>Figura 1 - Distribuição de frequência das respostas quanto ao desempenho da sua última equipe de projeto integrador, classificado de ruim (1) à bom (3).</center>
 
 <p align="center"><img src="./img/Grafico de Barras Ultima Equipe.png" alt="Distribuição de frequência das respostas quanto ao desempenho da sua última equipe de projeto integrador, classificado de ruim (1) à bom (3)" width="600"/></p>
 
@@ -183,10 +183,10 @@ Baseado nas perguntas localizadas na tabela 2, pode-se observar os resultados en
 <center><b>Pergunta 1: De acordo com os princípios de Transparência, Inspeção e Adaptação, qual deles mais influência para se ter uma equipe com desempenho bom(3)?</b></center>
 
 <p style="text-align: justify;text-justify: inter-word;">
-A correlação exposta na Figura 3 foi realizada através da utilização da técnica de análise de componentes principais. Nesse sentido, o resultado apresentado demonstra que os alunos que Concordam Totalmente que seu último projeto integrador possuía Transparência em relação às tarefas do time, tem uma maior possibilidade de pertencer a uma equipe boa (3). Esse princípio se destaca diante a Inspeção e Adaptação que também foram consideradas atributos para a esta análise. 
+A correlação exposta na Figura 2 foi realizada através da utilização da técnica de análise de componentes principais. Nesse sentido, o resultado apresentado demonstra que os alunos que Concordam Totalmente que seu último projeto integrador possuía Transparência em relação às tarefas do time, tem uma maior possibilidade de pertencer a uma equipe boa (3). Esse princípio se destaca diante a Inspeção e Adaptação que também foram consideradas atributos para a esta análise. 
 </p>
 
-<center>Figura 3 - Gráfico de projeção espacial com ênfase no eixo do princípio de Transparência concordado totalmente segundo as respostas dos alunos.</center>
+<center>Figura 2 - Gráfico de projeção espacial com ênfase no eixo do princípio de Transparência concordado totalmente segundo as respostas dos alunos.</center>
 
 <p align="center"><img src="./img/Grafico FreeViz.png" alt="Gráfico de projeção espacial com ênfase no eixo do princípio de Transparência concordado totalmente segundo as respostas dos alunos" width="400"/></p>
 
@@ -203,18 +203,18 @@ Ou seja, ainda segundo o autor, a transparência corrobora para uma frequente co
 <center><b>Pergunta 2: Qual é a importância de se realizar cerimônias para se ter uma equipe com desempenho bom (3)?</b></center>
 
 <p style="text-align: justify;text-justify: inter-word;">
-Observando o resultado explorado com a distribuição de dados exibida na Figura 4, nota-se que grande parte das equipes que obtiveram um desempenho bom (3) realizaram todas as cerimônias da metodologia Scrum. Tendo em vista isso, Schwaber and Sutherland (2018) afirmam que <cite>“Failure to include any of these events results in reduced transparency and is a lost opportunity to inspect and adapt.”</cite>, ou seja, falhar na inclusão de qualquer um desses eventos, resulta em redução da transparência e perda de oportunidade de inspeção e adaptação fazendo com que o desempenho da equipe seja prejudicado.
+Observando o resultado explorado com a distribuição de dados exibida na Figura 3, nota-se que grande parte das equipes que obtiveram um desempenho bom (3) realizaram todas as cerimônias da metodologia Scrum. Tendo em vista isso, Schwaber and Sutherland (2018) afirmam que <cite>“Failure to include any of these events results in reduced transparency and is a lost opportunity to inspect and adapt.”</cite>, ou seja, falhar na inclusão de qualquer um desses eventos, resulta em redução da transparência e perda de oportunidade de inspeção e adaptação fazendo com que o desempenho da equipe seja prejudicado.
 </p>
 
-<center>Figura 4 - Gráfico de barras quantificando o atributo Realiza Cerimônias baseado no atributo Desempenho da equipe.</center>
+<center>Figura 3 - Gráfico de barras quantificando o atributo Realiza Cerimônias baseado no atributo Desempenho da equipe.</center>
 
 <p align="center"><img src="./img/Grafico de Barras.png" alt="Gráfico de barras quantificando o atributo Realiza Cerimônias baseado no atributo Desempenho da equipe" width="600"/></p>
 
 <p style="text-align: justify;text-justify: inter-word;">
-Em relação ao contexto analisado, foi validada a hipótese da relação entre a Transparência e a Realização de cerimônias. Conclui-se que 100% dos alunos que Concordam Totalmente com Transparência e realizam as cerimônias de desenvolvimento Scrum, consideram que pertencem a uma equipe boa (3) em seu último projeto, como mostrado na  Figura 5.
+Em relação ao contexto analisado, foi validada a hipótese da relação entre a Transparência e a Realização de cerimônias. Conclui-se que 100% dos alunos que Concordam Totalmente com Transparência e realizam as cerimônias de desenvolvimento Scrum, consideram que pertencem a uma equipe boa (3) em seu último projeto, como mostrado na  Figura 4.
 </p>
 
-<center>Figura 5 - Gráfico de dispersão entre os atributos Transparência e Realizar Cerimônias relacionado ao atributo Desempenho da equipe.</center>
+<center>Figura 4 - Gráfico de dispersão entre os atributos Transparência e Realizar Cerimônias relacionado ao atributo Desempenho da equipe.</center>
 
 <p align="center"><img src="./img/Grafico de Dispersao.png" alt="Gráfico de dispersão entre os atributos Transparência e Realizar Cerimônias relacionado ao atributo Desempenho da equipe" width="600"/></p>
 
@@ -225,10 +225,10 @@ Devido a necessidade de se realizar estas cerimônias na metodologia Scrum visan
 <center><b>Pergunta 3: Qual a relação de se ter o conhecimento de Backend e Frontend diante uma equipe de desempenho bom(3)?</b></center>
 
 <p style="text-align: justify;text-justify: inter-word;">
-A correlação feita na Figura 6 mostra que 100% dos estudantes que se consideram Avançado em programação Frontend e Backend formam uma equipe de desempenho bom(3). Além disso, a grande maioria dos alunos que se classificam como Intermediário em relação a essas duas práticas compõe uma equipe de desempenho médio(2) ou bom(3). Diante o exposto, nota-se que pode haver uma falta de motivação no estudante caso ele apresente um nível elevado em apenas uma prática apresentada, diminuindo sua confiança técnica para realizar as tarefas de maneira produtiva. Assim, segundo Xavier, Viana e Gadelha (2016), a <cite>“confiança  técnica  é  valorizada  pelos  engenheiros  de software de modo que esta percepção de confiança em suas habilidades influencia positivamente sua motivação”</cite>.
+A correlação feita na Figura 5 mostra que 100% dos estudantes que se consideram Avançado em programação Frontend e Backend formam uma equipe de desempenho bom(3). Além disso, a grande maioria dos alunos que se classificam como Intermediário em relação a essas duas práticas compõe uma equipe de desempenho médio(2) ou bom(3). Diante o exposto, nota-se que pode haver uma falta de motivação no estudante caso ele apresente um nível elevado em apenas uma prática apresentada, diminuindo sua confiança técnica para realizar as tarefas de maneira produtiva. Assim, segundo Xavier, Viana e Gadelha (2016), a <cite>“confiança  técnica  é  valorizada  pelos  engenheiros  de software de modo que esta percepção de confiança em suas habilidades influencia positivamente sua motivação”</cite>.
 </p>
 
-<center>Figura 6 - Gráfico de dispersão entre o atributo de Frontend e Backend relacionado ao atributo Desempenho da equipe.</center>
+<center>Figura 5 - Gráfico de dispersão entre o atributo de Frontend e Backend relacionado ao atributo Desempenho da equipe.</center>
 
 <p align="center"><img src="./img/Grafico de Dispersao Frontend vs Backend.png" alt="Gráfico de dispersão entre o atributo de Frontend e Backend relacionado ao atributo Desempenho da equipe" width="600"/></p>
 
