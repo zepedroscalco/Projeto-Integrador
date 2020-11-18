@@ -182,13 +182,13 @@ Ou seja, ainda segundo o autor, a transparência corrobora para uma frequente co
 Observando o resultado explorado com a distribuição de dados exibida na Figura 4, nota-se que grande parte das equipes que obtiveram um desempenho bom (3) realizaram todas as cerimônias da metodologia Scrum. Tendo em vista isso, Schwaber and Sutherland (2018) afirmam que <cite>“Failure to include any of these events results in reduced transparency and is a lost opportunity to inspect and adapt.”</cite>, ou seja, falhar na inclusão de qualquer um desses eventos, resulta em redução da transparência e perda de oportunidade de inspeção e adaptação fazendo com que o desempenho da equipe seja prejudicado.
 </p>
 
-<p align="center"><img src="./img/Grafico de Barras.png" alt="Gráfico de barras quantificando o atributo Realiza Cerimônias baseado no atributo Desempenho da equipe" width="400"/></p>
+<p align="center"><img src="./img/Grafico de Barras.png" alt="Gráfico de barras quantificando o atributo Realiza Cerimônias baseado no atributo Desempenho da equipe" width="600"/></p>
 
 <p>
 Em relação ao contexto analisado, foi validada a hipótese da relação entre a Transparência e a Realização de cerimônias. Conclui-se que 100% dos alunos que Concordam Totalmente com Transparência e realizam as cerimônias de desenvolvimento Scrum, consideram que pertencem a uma equipe boa (3) em seu último projeto, como mostrado na  Figura 5.
 </p>
 
-<p align="center"><img src="./img/Grafico de Dispersao.png" alt="Gráfico de dispersão entre os atributos Transparência e Realizar Cerimônias relacionado ao atributo Desempenho da equipe" width="400"/></p>
+<p align="center"><img src="./img/Grafico de Dispersao.png" alt="Gráfico de dispersão entre os atributos Transparência e Realizar Cerimônias relacionado ao atributo Desempenho da equipe" width="600"/></p>
 
 <p>
 Devido a necessidade de se realizar estas cerimônias na metodologia Scrum visando garantir a transparência, inspeção e adaptação resultando em um aumento de produtividade, as metodologias DSDM (Agile Business Consortium, 2019) e XP (WELLS, 1996) apresentam cerimônias e eventos bem definidas para realização gerando uma troca rápida de feedbacks e garantindo adaptações de maneira ágil. É notório que ambas metodologias contribuem positivamente com eventos, entretanto, comparando-as com a metodologia Scrum é visível que ambas falham nas definições e na clareza de suas cerimônias.
@@ -200,7 +200,7 @@ Devido a necessidade de se realizar estas cerimônias na metodologia Scrum visan
 A correlação feita na Figura 6 mostra que 100% dos estudantes que se consideram Avançado em programação Frontend e Backend formam uma equipe de desempenho bom(3). Além disso, a grande maioria dos alunos que se classificam como Intermediário em relação a essas duas práticas compõe uma equipe de desempenho médio(2) ou bom(3). Diante o exposto, nota-se que pode haver uma falta de motivação no estudante caso ele apresente um nível elevado em apenas uma prática apresentada, diminuindo sua confiança técnica para realizar as tarefas de maneira produtiva. Assim, segundo Xavier, Viana e Gadelha (2016), a <cite>“confiança  técnica  é  valorizada  pelos  engenheiros  de software de modo que esta percepção de confiança em suas habilidades influencia positivamente sua motivação”</cite>.
 </p>
 
-<p align="center"><img src="./img/Grafico de Dispersao Frontend vs Backend.png" alt="Gráfico de dispersão entre o atributo de Frontend e Backend relacionado ao atributo Desempenho da equipe" width="400"/></p>
+<p align="center"><img src="./img/Grafico de Dispersao Frontend vs Backend.png" alt="Gráfico de dispersão entre o atributo de Frontend e Backend relacionado ao atributo Desempenho da equipe" width="600"/></p>
 
 <p>
 Visando aumentar e melhorar o rendimento dos alunos, relacionando novas metodologias de gestão de projetos de software que venham suprir esta lacuna, a prática de Programação em pares da metodologia XP é uma solução para o problema encontrado. Segundo Beck e Andres (2004), os programadores desta prática devem <cite>“Take initiative when their partner is stuck, thus lowering frustration. Hold each other accountable to the team's practices.”</cite>, ou seja, tomar iniciativa quando o parceiro estiver com dificuldade para diminuir sua frustração tendo responsabilidades mútuas sobre a prática desenvolvida.
