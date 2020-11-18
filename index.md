@@ -112,8 +112,16 @@ Como a imagem acima, foram criadas as respectivas classes referenciando cada res
 ## Mineração
 
 <p style="text-align: justify;text-justify: inter-word;">
-Visando entender as dificuldades dos alunos acerca dos Princípios e Práticas foram elaboradas perguntas norteadoras que buscam relacionar e compreender os métodos ágeis e o comportamento gerado com o uso desses métodos. As perguntas elaboradas estão apresentadas na tabela abaixo:
+Visando direcionar o estudo sobre a viabilidade de integração de novas metodologias de gestão de projetos, foi adotado o diagrama The Agile Onion de Powers (2016), como exposto na figura abaixo, no qual exemplifica a estrutura base de uma metodologia de gestão dividida em Mentalidade, Valores, Princípios, Práticas e Ferramentas. Sendo assim, as análises feitas neste trabalho foram orientadas pelas camadas de Princípios e Práticas a fim de facilitar a comparação entre as metodologias.
 </p>
+
+<p align="center"><img src="./img/Cebola Ágil.PNG" alt="Cebola Ágil" width="500"/></p>
+
+<p style="text-align: justify;text-justify: inter-word;">
+Foram elaboradas perguntas norteadoras que buscam relacionar e compreender os métodos ágeis e o comportamento gerado com o uso desses métodos. As perguntas elaboradas estão apresentadas na Tabela 1:
+</p>
+
+<center>Tabela 1 - Perguntas elaboradas para análise.</center>
 
 <table>
   <tr>
@@ -177,7 +185,7 @@ Ao analisar a experiência dos alunos diante o ambiente da disciplina de Projeto
 <p align="center"><img src="./img/Grafico de Barras Ultima Equipe.png" alt="Distribuição de frequência das respostas quanto ao desempenho da sua última equipe de projeto integrador, classificado de ruim (1) à bom (3)" width="600"/></p>
 
 <p style="text-align: justify;text-justify: inter-word;">
-Baseado nas perguntas localizadas na tabela 2, pode-se observar os resultados encontrados abaixo:
+Baseado nas perguntas localizadas na tabela 1, pode-se observar os resultados encontrados abaixo:
 </p>
 
 <center><b>Pergunta 1: De acordo com os princípios de Transparência, Inspeção e Adaptação, qual deles mais influência para se ter uma equipe com desempenho bom(3)?</b></center>
@@ -253,3 +261,42 @@ Diante o trabalho realizado, a viabilidade da introdução de uma nova metodolog
 <p style="text-align: justify;text-justify: inter-word;">
 Todavia, faz-se necessário a introdução da técnica de Programação em pares estabelecida pela Metodologia XP visando aumentar e melhorar o rendimento dos alunos. Ademais, levando em consideração a importância da realização de cerimônias para um bom desempenho da equipe, a Metodologia DSDM não apresenta características objetivas sobre as cerimônias realizadas diante o seu ciclo, tornando-a inviável para integração. Além disso, o elevado número de papéis para desempenhar funções durante o desenvolvimento é incompatível com os projetos desenvolvidos na disciplina.
 </p>
+
+# Referências
+
+AGILE BUSINESS CONSORTIUM. What is DSDM?. Disponível em: <https://www.agilebusiness.org/page/whatisdsdm>. Acesso em: 21 out. 2020. 
+
+AGRAWAL, R. et al. Fast Algorithms for Mining Association Rules. p. 13, 1994.
+
+AUBERT, B. A.; KELSEY, B. L. Further Understanding of Trust and Performance in Virtual Teams. Small Group Research, v. 34, n. 5, p. 575–618, out. 2003.
+
+BECK, K.; ANDRES, C. Extreme Programming Explained: Embrace Change. [s.l.] Addison-Wesley Professional, 2004. 
+
+BREIMAN, L. Random Forests. Machine Learning, v. 45, n. 1, p. 5–32, 1 out. 2001.
+
+CHALUP, S.; MAIRE, F. A study on hill climbing algorithms for neural network training. Proceedings of the 1999 Congress on Evolutionary Computation-CEC99 (Cat. No. 99TH8406). Anais... In: PROCEEDINGS OF THE 1999 CONGRESS ON EVOLUTIONARY COMPUTATION-CEC99 (CAT. NO. 99TH8406). jul. 1999
+
+DEMŠAR, J. et al. Orange: data mining toolbox in python. The Journal of Machine Learning Research, v. 14, n. 1, p. 2349–2353, 1 jan. 2013. 
+
+DEMŠAR, J.; LEBAN, G.; ZUPAN, B. FreeViz—An intelligent multivariate visualization approach to explorative analysis of biomedical data. Journal of Biomedical Informatics, Intelligent Data Analysis in Biomedicine. v. 40, n. 6, p. 661–671, 1 dez. 2007. 
+
+HASTIE, T.; TIBSHIRANI, R.; FRIEDMAN, J. The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition. [s.l.] Springer Science & Business Media, 2009.
+
+HEARST, M. A. et al. Support vector machines. IEEE Intelligent Systems and their
+Applications, v. 13, n. 4, p. 18–28, jul. 1998.
+
+JR, D. W. H.; LEMESHOW, S.; STURDIVANT, R. X. Applied Logistic Regression. [s.l.] John Wiley & Sons, 2013.
+
+PEDREGOSA, F. et al. Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, v. 12, n. 85, p. 2825–2830, 2011. 
+
+POWERS, S. What is Agile?Adventures with Agile, 10 ago. 2016. Disponível em: <https://www.adventureswithagile.com/2016/08/10/what-is-agile/>. Acesso em: 18 out. 2020
+
+ROUSSEEUW, P. J. Silhouettes: A graphical aid to the interpretation and validation of cluster analysis. Journal of Computational and Applied Mathematics, v. 20, p. 53–65, 1 nov. 1987. 
+
+SCHWABER, K.; SUTHERLAND, J. Scrum Guide. Disponível em: <https://www.scrumguides.org/scrum-guide.html>. Acesso em: 21 out. 2020. 
+
+VISA, S. et al. Confusion Matrix-based Feature Selection. . In: CEUR WORKSHOP PROCEEDINGS. 1 jan. 2011
+
+WELLS, D. Extreme Programming: A Gentle Introduction. Disponível em: <http://www.extremeprogramming.org/>. Acesso em: 21 out. 2020. 
+
+XAVIER, D.; VIANA, D.; GADELHA, B. Um estudo sobre a relação entre Processo e Motivação em Equipes de Desenvolvimento de Software. Anais do Simpósio Brasileiro de Sistemas de Informação (SBSI), p. 076–083, 17 maio 2016. 
