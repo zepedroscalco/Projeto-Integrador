@@ -152,21 +152,20 @@ No processo de validação dos métodos de aprendizado de máquinas foi utilizad
 Ao analisar a experiência dos alunos diante o ambiente da disciplina de Projeto Integrador, nota-se a importância da coleta de dados para o estudo de viabilidade de introdução de uma nova metodologia de gestão de projetos de software. Diante o contexto, a opinião dos alunos referentes ao desempenho da sua última equipe de projeto foi o atributo norteador para embasar os resultados das análises apresentadas. Nesse sentido, 54,2% dos estudantes afirmam que classificariam o desempenho da equipe como bom (3) em uma escala de 1 à 3, conforme mostrado na Figura 2.
 </p>
 
-<p align="center"><img src="./img/Grafico de Barras Ultima Equipe.png" alt="Distribuição de frequência das respostas quanto ao desempenho da sua última equipe de projeto integrador, classificado de ruim (1) à bom (3)" width="400"/></p>
-<br/>
+<p align="center"><img src="./img/Grafico de Barras Ultima Equipe.png" alt="Distribuição de frequência das respostas quanto ao desempenho da sua última equipe de projeto integrador, classificado de ruim (1) à bom (3)" width="600"/></p>
 
 <p>
 Baseado nas perguntas localizadas na tabela 2, pode-se observar os resultados encontrados abaixo:
 </p>
 
-<li>Pergunta 1: De acordo com os princípios de Transparência, Inspeção e Adaptação, qual deles mais influência para se ter uma equipe com desempenho bom(3)?</li>
+<center><b>Pergunta 1: De acordo com os princípios de Transparência, Inspeção e Adaptação, qual deles mais influência para se ter uma equipe com desempenho bom(3)?</b></center>
 
 <p>
 A correlação exposta na Figura 3 foi realizada através da utilização da técnica de análise de componentes principais. Nesse sentido, o resultado apresentado demonstra que os alunos que Concordam Totalmente que seu último projeto integrador possuía Transparência em relação às tarefas do time, tem uma maior possibilidade de pertencer a uma equipe boa (3). Esse princípio se destaca diante a Inspeção e Adaptação que também foram consideradas atributos para a esta análise. 
 </p>
 
 <p align="center"><img src="./img/Grafico FreeViz.png" alt="Gráfico de projeção espacial com ênfase no eixo do princípio de Transparência concordado totalmente segundo as respostas dos alunos" width="400"/></p>
-<br/>
+
 
 <p>
 De acordo com Aubert e Kelsey (2003), pode-se notar que todos os funcionários que apresentam alto desempenho também apresentavam alta transparência no compartilhamento de afazeres e atualizações para todas as suas equipes.
