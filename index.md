@@ -97,7 +97,7 @@ Como a imagem acima, foram criadas as respectivas classes referenciando cada res
 ## Mineração
 
 <p>
-Visando entender as dificuldades dos alunos acerca dos Princípios e Práticas foram elaboradas perguntas norteadoras que buscam relacionar e compreender os métodos ágeis e o comportamento gerado com o uso desses métodos. As perguntas elaboradas estão apresentadas na Tabela 2.
+Visando entender as dificuldades dos alunos acerca dos Princípios e Práticas foram elaboradas perguntas norteadoras que buscam relacionar e compreender os métodos ágeis e o comportamento gerado com o uso desses métodos. As perguntas elaboradas estão apresentadas na tabela abaixo:
 </p>
 
 <table>
@@ -119,17 +119,39 @@ Visando entender as dificuldades dos alunos acerca dos Princípios e Práticas f
   </tr>
 </table>
 
-<p>Foram utilizadas na pergunta de número 1 exibida na Tabela 2 as técnicas de Silhouettes Graph (ROUSSEEUW, 1987) para verificar a distância entre atributos e a qual cluster o mesmo pertence utilizando a escala de 0 a 1, sendo que quanto mais próximo de 1, mais ao centro o atributo se encontra do cluster; FreeViz (DEMŠAR; LEBAN; ZUPAN, 2007) sendo uma técnica que utiliza o algoritmo de otimização hill-climbing (CHALUP; MAIRE, 1999) para buscar um equilíbrio entre os vetores (atributos) de forma visual para destacar os vetores que são de extrema relevância; Logistic Regression (JR; LEMESHOW; STURDIVANT, 2013) visando a classificação do conjunto de dados para extrair os pesos encontrados por meio dele e Association Rules (AGRAWAL et al., 1994) com a finalidade de destacar as principais regras de associação baseado em uma confiança de 90% e suporte de 10%.
+<p>Foram utilizadas na pergunta de número 1 exibida na tabela acima as técnicas de Silhouettes Graph (ROUSSEEUW, 1987) para verificar a distância entre atributos e a qual cluster o mesmo pertence utilizando a escala de 0 a 1, sendo que quanto mais próximo de 1, mais ao centro o atributo se encontra do cluster; FreeViz (DEMŠAR; LEBAN; ZUPAN, 2007) sendo uma técnica que utiliza o algoritmo de otimização hill-climbing (CHALUP; MAIRE, 1999) para buscar um equilíbrio entre os vetores (atributos) de forma visual para destacar os vetores que são de extrema relevância; Logistic Regression (JR; LEMESHOW; STURDIVANT, 2013) visando a classificação do conjunto de dados para extrair os pesos encontrados por meio dele e Association Rules (AGRAWAL et al., 1994) com a finalidade de destacar as principais regras de associação baseado em uma confiança de 90% e suporte de 10%.
 </p>
 <p>
 Na pergunta de número 2 também foram utilizadas as técnicas de  Silhouettes Graph (ROUSSEEUW, 1987); FreeViz (DEMŠAR; LEBAN; ZUPAN, 2007) e Logistic Regression (JR; LEMESHOW; STURDIVANT, 2013). Além disso, para esta análise foi adicionado o Support Vector Machine (SVM) (HEARST et al., 1998) utilizado na criação de um modelo de classificação.
+</p>
+<p>
 Na pergunta de número 3 também foram utilizadas as técnicas de Association Rules (AGRAWAL et al., 1994) e Support Vector Machine (SVM) (HEARST et al., 1998). Adicionalmente, para compor esta análise foi aplicado o classificador Decision Tree, precursor do algoritmo Random Tree (BREIMAN, 2001), criando uma árvore com objetivo de determinar em qual classe aqueles atributos se assemelham e Scatter Plot sklearn (PEDREGOSA et al., 2011) gerando um gráfico de dispersão de dois eixos.
-
 </p>
 
 ## Validação
 
+<p>
+No processo de validação dos métodos de aprendizado de máquinas foi utilizado a técnica Cross-Validation (HASTIE; TIBSHIRANI; FRIEDMAN, 2009) sendo utilizado 10 folds para o processo de validação cruzada juntamente com a técnica Confusion Matrix (VISA et al., 2011) para verificar a porcentagem de falsos-negativos e falsos-positivos. Com o objetivo de avaliar os modelos testados, foi utilizado o algoritmo Dummy Classifier para validar a acurácia mínima de classificação, sendo encontrado na biblioteca sklearn (PEDREGOSA et al., 2011).
+</p>
+<br/>
+<p>Referente as validações das perguntas, tivemos as seguintes informações:</p>
+
+<li>Pergunta 1:</li>
+<p align="center"><img src="./img/Pergunta1Acuracia.PNG" alt="Pergunta 1" width="500"/></p>
+<br/>
+
+<li>Pergunta 2:</li>
+
+<p align="center"><img src="./img/Pergunta2Acuracia.PNG" alt="Pergunta 2" width="500"/></p>
+<br/>
+
+<li>Pergunta 3:</li>
+<p align="center"><img src="./img/Pergunta3Acuracia.PNG" alt="Pergunta 2" width="500"/></p>
+<br/><br/>
+
 # Resultados e discussão
+
+
 
 # Conclusão
 
