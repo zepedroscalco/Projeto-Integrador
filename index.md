@@ -7,7 +7,7 @@
 # Características da pesquisa
 
 <p>
-A pesquisa desenvolvida para coletar os dados deste projeto é do tipo quantitativa. Sabendo-se disso, foram elaboradas 13 perguntas em torno do tema Metodologia de Gestão com foco em 5 pilares:
+Para dar início a coleta de dados foi elaborada uma pesquisa por meio da plataforma Google Forms. Esse formulário teve como público alvo alunos da disciplina de Projeto Integrador do 2º ao 6º termo, do qual obteve-se a resposta de 59 estudantes. A pesquisa em questão foi disponibilizada entre os dias 06/09/2020 à 15/09/2020 com foco em entender o nível de afinidade com a metodologia Scrum, trabalhada na disciplina, e as dificuldades que podem ser sanadas com o uso de outra metodologia de gestão de projetos de software para aumentar e melhorar a produtividade da equipe. Nesse contexto, foram exploradas cinco áreas de interesse para entender o ambiente de estudo, sendo:
 
 <ul>
   <li>Método</li>
@@ -17,7 +17,13 @@ A pesquisa desenvolvida para coletar os dados deste projeto é do tipo quantitat
   <li>Experiências</li>
 </ul>
 
-Nesse contexto, todos os pilares acima foram relacionados pelos alunos diante a Metodologia Scrum já desenvolvida na disciplina. Sendo assim, após as análises feitas, poderemos identificar os pontos positivos e negativos apresentado pelos alunos e propor ou não uma nova metodologia que amenize as dificuldades. 
+Nesse contexto, todos os pilares acima foram relacionados pelos alunos diante a Metodologia Scrum já desenvolvida na disciplina. Sendo assim, após as análises feitas, podemos identificar os pontos positivos e negativos apresentados pelos alunos e propor ou não a introdução de uma nova metodologia de gestão de projetos de software que amenize as dificuldades.
+</p>
+<p>
+Foi utilizada a escala Likert adaptada para medir a importância dos temas apresentados com a remoção da medida “Não Concordo e Nem Discordo” evitando a neutralidade das respostas. O conteúdo abordado visa também explorar as habilidades técnicas dos alunos, competências e habilidades pessoais necessárias para o trabalho em grupo e experiências com liderança em métodos ágeis.
+</p>
+<p>
+No link abaixo, observa-se as perguntas e suas respectivas alternativas utilizadas no formulário de coleta de dados sobre a experiência dos alunos na utilização da metodologia Scrum, onde as opções em algumas perguntas são Discordo Totalmente (DT); Discordo Parcialmente (DP); Concordo Parcialmente (CP); Concordo Totalmente (CT).
 </p>
 <p>
 O formulário juntamente com as perguntas pode ser acessado em: https://forms.gle/Ed3s2KDMzNzYfcKS9 
@@ -46,6 +52,10 @@ Já em relação a visualização podemos ter uma interface simples e intuitiva 
 <br/>
 
 # Materiais e métodos
+
+<p>
+As etapas de manipulação dos dados feitas nessa pesquisa foram seguindo o processo de Knowledge Discovery in Databases (KDD) composto por seis etapas, sendo elas: entendimento do domínio; agrupamento de dados; pré-processamento; transformação; Data Mining; pós-processamento.
+</p>
 
 ## Pré-processamento
 <p>De início foi extraído o arquivo em formato .csv do formulário contendo todas as 59 respostas dos alunos. Após este passo foi identificado que havia 3 campos faltantes na coluna “FrontEnd” e que deveriam ser preenchidos. Nesse contexto foi realizado no software Orange o seguinte procedimento:
@@ -86,9 +96,40 @@ Como a imagem acima, foram criadas as respectivas classes referenciando cada res
 
 ## Mineração
 
+<p>
+Visando entender as dificuldades dos alunos acerca dos Princípios e Práticas foram elaboradas perguntas norteadoras que buscam relacionar e compreender os métodos ágeis e o comportamento gerado com o uso desses métodos. As perguntas elaboradas estão apresentadas na Tabela 2.
+</p>
+
+<table>
+  <tr>
+    <th>Número</th>
+    <th>Pergunta</th>  
+  </tr>
+  <tr>
+    <td style="text-align: center">1</td>
+    <td>De acordo com os princípios de Transparência, Inspeção e Adaptação, qual deles mais influência para se ter uma equipe com desempenho bom (3)?</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">2</td>
+    <td>Qual é a importância de se realizar cerimônias para se ter uma equipe com desempenho bom (3)?</td>
+  </tr>
+  <tr>
+    <td style="text-align: center">3</td>
+    <td>Qual a relação de se ter o conhecimento de BackEnd e FrontEnd diante uma equipe de desempenho bom (3)?</td>
+  </tr>
+</table>
+
+<p>Foram utilizadas na pergunta de número 1 exibida na Tabela 2 as técnicas de Silhouettes Graph (ROUSSEEUW, 1987) para verificar a distância entre atributos e a qual cluster o mesmo pertence utilizando a escala de 0 a 1, sendo que quanto mais próximo de 1, mais ao centro o atributo se encontra do cluster; FreeViz (DEMŠAR; LEBAN; ZUPAN, 2007) sendo uma técnica que utiliza o algoritmo de otimização hill-climbing (CHALUP; MAIRE, 1999) para buscar um equilíbrio entre os vetores (atributos) de forma visual para destacar os vetores que são de extrema relevância; Logistic Regression (JR; LEMESHOW; STURDIVANT, 2013) visando a classificação do conjunto de dados para extrair os pesos encontrados por meio dele e Association Rules (AGRAWAL et al., 1994) com a finalidade de destacar as principais regras de associação baseado em uma confiança de 90% e suporte de 10%.
+</p>
+<p>
+Na pergunta de número 2 também foram utilizadas as técnicas de  Silhouettes Graph (ROUSSEEUW, 1987); FreeViz (DEMŠAR; LEBAN; ZUPAN, 2007) e Logistic Regression (JR; LEMESHOW; STURDIVANT, 2013). Além disso, para esta análise foi adicionado o Support Vector Machine (SVM) (HEARST et al., 1998) utilizado na criação de um modelo de classificação.
+Na pergunta de número 3 também foram utilizadas as técnicas de Association Rules (AGRAWAL et al., 1994) e Support Vector Machine (SVM) (HEARST et al., 1998). Adicionalmente, para compor esta análise foi aplicado o classificador Decision Tree, precursor do algoritmo Random Tree (BREIMAN, 2001), criando uma árvore com objetivo de determinar em qual classe aqueles atributos se assemelham e Scatter Plot sklearn (PEDREGOSA et al., 2011) gerando um gráfico de dispersão de dois eixos.
+
+</p>
+
 ## Validação
 
-## Resultados e discussão
+# Resultados e discussão
 
-## Conclusão
+# Conclusão
 
