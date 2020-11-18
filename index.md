@@ -133,21 +133,18 @@ Na pergunta de número 3 também foram utilizadas as técnicas de Association Ru
 <p>
 No processo de validação dos métodos de aprendizado de máquinas foi utilizado a técnica Cross-Validation (HASTIE; TIBSHIRANI; FRIEDMAN, 2009) sendo utilizado 10 folds para o processo de validação cruzada juntamente com a técnica Confusion Matrix (VISA et al., 2011) para verificar a porcentagem de falsos-negativos e falsos-positivos. Com o objetivo de avaliar os modelos testados, foi utilizado o algoritmo Dummy Classifier para validar a acurácia mínima de classificação, sendo encontrado na biblioteca sklearn (PEDREGOSA et al., 2011).
 </p>
-<br/>
+
 <p>Referente as validações das perguntas, tivemos as seguintes informações:</p>
 
 <li>Pergunta 1:</li>
-<p align="center"><img src="./img/Pergunta1Acuracia.PNG" alt="Pergunta 1" width="500"/></p>
-<br/>
+<p align="center"><img src="./img/Pergunta1Acuracia.PNG" alt="Pergunta 1" width="400"/></p>
 
 <li>Pergunta 2:</li>
-
-<p align="center"><img src="./img/Pergunta2Acuracia.PNG" alt="Pergunta 2" width="500"/></p>
-<br/>
+<p align="center"><img src="./img/Pergunta2Acuracia.PNG" alt="Pergunta 2" width="400"/></p>
 
 <li>Pergunta 3:</li>
-<p align="center"><img src="./img/Pergunta3Acuracia.PNG" alt="Pergunta 2" width="500"/></p>
-<br/><br/>
+<p align="center"><img src="./img/Pergunta3Acuracia.PNG" alt="Pergunta 2" width="400"/></p>
+<br/>
 
 # Resultados e discussão
 
