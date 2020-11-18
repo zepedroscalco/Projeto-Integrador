@@ -31,7 +31,7 @@ No link abaixo, observa-se as perguntas e suas respectivas alternativas utilizad
 </p>
 
 <p style="text-align: justify;text-justify: inter-word;">
-O formulário juntamente com as perguntas pode ser acessado em: <a>https://forms.gle/Ed3s2KDMzNzYfcKS9</a> 
+O formulário juntamente com as perguntas pode ser acessado em: <a href="https://forms.gle/Ed3s2KDMzNzYfcKS9">https://forms.gle/Ed3s2KDMzNzYfcKS9</a> 
 </p>
 
 # Software utilizado
